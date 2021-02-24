@@ -6,4 +6,8 @@
   <project path="All Project" name="MyPortofolio" remote="main" groups="main" />
   <project path="Hilt Multi Module" name="Hilt-Multi-Module" remote="main" groups="android" />
   <project path="Dicoding Jetpack Academy" name="Jetpack-Academy" remote="main" groups="android" />
+  <project path="Dicoding Made Submission" name="YoutubeTrends" remote="main" groups="android" />
+  <project path="Text To Speech Sample" name="SpeechToText" remote="main" groups="android" />
+  <project path="Covid19 App Tracker" name="COVID19_Tracker" remote="main" groups="android" />
+  <project path="Raja Ongkir Apps" name="RajaOngkir-App" remote="main" groups="android" />
 </manifest>
