@@ -3,5 +3,7 @@
   <remote name="main" fetch="https://github.com/oratakashi" revision="main" />
   <remote name="master" fetch="https://github.com/oratakashi" revision="master" />
 
-  <project path="MyPortofolio" name="MyPortofolio" remote="main" groups="main" />
+  <project path="All Project" name="MyPortofolio" remote="main" groups="main" />
+  <project path="Hilt Multi Module" name="Hilt-Multi-Module" remote="main" groups="android" />
+  <project path="Dicoding Jetpack Academy" name="Jetpack-Academy" remote="main" groups="android" />
 </manifest>
