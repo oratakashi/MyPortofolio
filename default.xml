@@ -3,5 +3,5 @@
   <remote name="main" fetch="https://github.com/oratakashi" revision="main" />
   <remote name="master" fetch="https://github.com/oratakashi" revision="master" />
 
-  <project path="MyPortofolio" name="allproject" remote="main" groups="main" />
+  <project path="MyPortofolio" name="MyPortofolio" remote="main" groups="main" />
 </manifest>
