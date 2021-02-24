@@ -4,12 +4,12 @@
     name="main" 
     fetch="https://github.com/oratakashi" 
     revision="main"
-    review="ssh://git.example.com/oratakashi" />
+    review="ssh://git.github.com/oratakashi" />
   <remote 
     name="master" 
     fetch="https://github.com/oratakashi" 
     revision="master"
-    review="ssh://git.example.com/oratakashi" />
+    review="ssh://git.github.com/oratakashi" />
 
   <project path="All Project" name="MyPortofolio" remote="main" groups="main" />
   <project path="Hilt Multi Module" name="Hilt-Multi-Module" remote="main" groups="android" />
